@@ -1,7 +1,3 @@
-// João Victor de Paula Silva       RA: 10418556
-// Bruno Rabelo Torchio de Oliveira RA: 10239373
-// Guilherme Dias Ferreira Pereira  RA: 10417684
-// Caio Teixeira Torres             RA: 10417478 
 public class Node<E> {
     private E value;
     private Node<E> filhoEsquerdo;
